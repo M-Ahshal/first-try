@@ -8,4 +8,7 @@ mobil
 -avanza
 -xenia
 
+ban
+-2
+-3
 
