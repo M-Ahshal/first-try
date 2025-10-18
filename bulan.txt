@@ -1,6 +1,9 @@
 januari
 march
 
+warna
+-merah
+-biru
 -sabtu
 -minggu
 may
