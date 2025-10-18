@@ -1,7 +1,6 @@
 januari
 march
 
-may
-
-august
-desember
+warna
+-merah
+-biru
